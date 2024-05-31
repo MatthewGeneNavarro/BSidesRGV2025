@@ -1,0 +1,30 @@
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_THEME: white
+#+REVEAL_SLIDE:
+#+OPTIONS: toc:nil num:nil
+#+DATE:
+#+AUTHOR: Eduardo Robles
+#+TITLE: [Draft]
+
+* Defending from a C2 Server
+* About Me
+- Hi! I'm Eduardo Robles I work for County of Hidalgo IT dept as a Cybersecurity Analyst III
+- Founder of South Texas Linux Users Group.
+- You can check out my skills on my blog or LinkedIn.
+  *Bonus, I give out a lot of free advice over there*
+* Agenda
+* Threat Hunting
+** Malicious Traffic
+- Wireshark
+- iNetSim
+- Firewalls
+- DNS Sinkholes
+
+* Conclusion
+* Questions
+* Thanks
+* Notes
+** Mittre ATT&CK
+https://attack.mitre.org/
+** Mittre D3FENSE
+https://d3fend.mitre.org/
