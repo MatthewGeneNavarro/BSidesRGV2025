@@ -24,7 +24,7 @@
 * Questions
 * Thanks
 * Notes
-** Mittre ATT&CK
+** Mitre ATT&CK
 https://attack.mitre.org/
 *** Command and Control - [[https://attack.mitre.org/tactics/TA0011/][TA0011]]
 **** T1071
@@ -46,5 +46,5 @@ https://attack.mitre.org/
 **** T1205
 **** T1102
 **** TODO Make into table not this boring list
-** Mittre D3FENSE
+** Mitre D3FENSE
 https://d3fend.mitre.org/
